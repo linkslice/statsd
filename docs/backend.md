@@ -32,6 +32,8 @@ queues and third-party services.
 
 ## Available Third-party backends
 - [amqp-backend](https://github.com/mrtazz/statsd-amqp-backend)
+- [atsd-backend](https://github.com/axibase/atsd-statsd-backend)
+- [aws-cloudwatch-backend](https://github.com/camitz/aws-cloudwatch-statsd-backend)
 - [node-bell](https://github.com/eleme/node-bell)
 - [couchdb-backend](https://github.com/sysadminmike/couch-statsd-backend)
 - [datadog-backend](https://github.com/DataDog/statsd-datadog-backend)
@@ -40,6 +42,7 @@ queues and third-party services.
 - [hosted graphite backend](https://github.com/hostedgraphite/statsdplugin)
 - [influxdb backend](https://github.com/bernd/statsd-influxdb-backend)
 - [instrumental backend](https://github.com/collectiveidea/statsd-instrumental-backend)
+- [jut-backend](https://github.com/jut-io/statsd-jut-backend)
 - [leftronic backend](https://github.com/sreuter/statsd-leftronic-backend)
 - [librato-backend](https://github.com/librato/statsd-librato-backend)
 - [mongo-backend](https://github.com/dynmeth/mongo-statsd-backend)
@@ -53,4 +56,4 @@ queues and third-party services.
 - [statsd aggregation backend](https://github.com/wanelo/gossip_girl)
 - [zabbix-backend](https://github.com/parkerd/statsd-zabbix-backend)
 
-[graphite]: http://graphite.wikidot.com
+[graphite]: https://graphite.readthedocs.io/en/latest/
